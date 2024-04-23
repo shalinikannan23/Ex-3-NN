@@ -16,7 +16,7 @@ XOR is a classification problem, as it renders binary distinct outputs. If we pl
 ![Img2](https://user-images.githubusercontent.com/112920679/195774898-b0c5886b-3d58-4377-b52f-73148a3fe54d.gif)
 
 The graph plots the two inputs corresponding to their output. Visualizing this plot, we can see that it is impossible to separate the different outputs (1 and 0) using a linear equation.To separate the two outputs using linear equation(s), it is required to draw two separate lines as shown in figure below:
-![Img 3](https://user-images.githubusercontent.com/112920679/195775012-74683270-561b-4a3a-ac62-cf5ddfcf49ca.gif)
+<img height=16% width=24% src="https://user-images.githubusercontent.com/112920679/195775012-74683270-561b-4a3a-ac62-cf5ddfcf49ca.gif">
 For a problem resembling the outputs of XOR, it was impossible for the machine to set up an equation for good outputs. This is what led to the birth of the concept of hidden layers which are extensively used in Artificial Neural Networks. The solution to the XOR problem lies in multidimensional analysis. We plug in numerous inputs in various layers of interpretation and processing, to generate the optimum outputs.
 The inner layers for deeper processing of the inputs are known as hidden layers. The hidden layers are not dependent on any other layers. This architecture is known as Multilayer Perceptron (MLP).
 ![Img 4](https://user-images.githubusercontent.com/112920679/195775183-1f64fe3d-a60e-4998-b4f5-abce9534689d.gif)
@@ -109,7 +109,7 @@ predict(w1,w2,test)
 
 <H3>Output:</H3>
 
-![image](https://github.com/shalinikannan23/Ex-3-NN/assets/118656529/877f60e7-bf2c-4af6-90ae-d517361f061d)
+<img height=16% width=24% src="https://github.com/shalinikannan23/Ex-3-NN/assets/118656529/877f60e7-bf2c-4af6-90ae-d517361f061d">
 
 
 
